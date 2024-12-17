@@ -1,0 +1,20 @@
+{
+  "validUser": {
+    "firstName": "Benito",
+    "lastName": "Don Satur",
+    "postalCode": "555"
+  },
+
+  "invalidUser": {
+    "firstName": "#!@<",
+    "lastName": "475",
+    "postalCode": "NO"
+  },  
+
+  "errorMessages":{
+    "formBlank": "Error: First Name is required",    
+    "lastNameBlank": "Error: Last Name is required",    
+    "postalCodeBlank": "Error: Postal Code is required"
+    
+  }
+}
